@@ -1,0 +1,27 @@
+[
+    {
+        "quote": "May the Force be with you",
+        "movie": "Star Wars",
+        "year": 1977
+    },
+    {
+        "quote": "There's no place like home.",
+        "movie": "The Wizard of Oz",
+        "year": 1939
+    },
+    {
+        "quote": "I'm the king of the world!",
+        "movie": "Titanic",
+        "year": 1997
+    },
+    {
+        "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+        "movie": "Dead Poets Society",
+        "year": 1989
+    },
+    {
+        "quote": "Elementary, my dear Watson.",
+        "movie": "The Adventures of Sherlock Holmes",
+        "year": 1939
+    }
+]
