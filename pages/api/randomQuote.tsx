@@ -1,5 +1,5 @@
-import allQuotes from '../../quotes.json';
-import { NextApiRequest, NextApiResponse } from 'next';
+import allQuotes from "../../quotes.json";
+import { NextApiRequest, NextApiResponse } from "next";
 
 const getRandomQuote = (req: NextApiRequest, res: NextApiResponse) => {
   let { movie } = req.query;
@@ -9,10 +9,13 @@ const getRandomQuote = (req: NextApiRequest, res: NextApiResponse) => {
   const movieStr: string = Array.isArray(movie) ? movie[0] : movie;
 
   if (movieStr) {
-    quotes = quotes.filter(quote => quote.movie.toLowerCase().includes(movieStr.toLowerCase()));
+    quotes = quotes.filter(quote =>
+      quote.movie.toLowerCase().includes(movieStr.toLowerCase())
+    );
   }
+
   if (!quotes.length) {
-    quotes = allQuotes.filter(quote => quote.movie.toLowerCase() === 'unknown');
+    quotes = allQuotes.filter(quote => quote.movie.toLowerCase() === "unknown");
   }
 
   const quote = quotes[Math.floor(Math.random() * quotes.length)];

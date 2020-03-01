@@ -1,7 +1,7 @@
 {
   "name": "Quotatious",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimalist app testing your cinema culture. Built with Next.js.",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,8 +9,13 @@
     "start": "next start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Guillaume Lambert <guillaume.p.lambert@gmail.com>",
   "license": "ISC",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.2.2",
@@ -22,6 +27,10 @@
   "devDependencies": {
     "@types/node": "^13.7.7",
     "@types/react": "^16.9.23",
+    "eslint-plugin-prettier": "^3.1.2",
+    "husky": "^4.2.3",
+    "prettier": "^1.19.1",
+    "pretty-quick": "^2.0.1",
     "typescript": "^3.8.3"
   }
 }

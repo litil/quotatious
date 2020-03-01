@@ -1,19 +1,19 @@
-import { useRouter } from 'next/router';
-import useSWR, { mutate } from 'swr';
-import { colors } from '../colors';
+import { useRouter } from "next/router";
+import useSWR, { mutate } from "swr";
+import { colors } from "../colors";
 import { useState } from "react";
-import Header from '../components/Header';
-import { NextPage } from 'next';
+import Header from "../components/Header";
+import { NextPage } from "next";
 
 function fetcher(url: string) {
   return fetch(url).then(r => r.json());
 }
 
 const Index: NextPage<{}> = () => {
-  const [ reveal, setReveal ] = useState(false);
+  const [reveal, setReveal] = useState(false);
   const { query } = useRouter();
   const { data, error } = useSWR(
-    `/api/randomQuote${query.movie ? '?movie=' + query.movie : ''}`,
+    `/api/randomQuote${query.movie ? "?movie=" + query.movie : ""}`,
     fetcher
   );
   // The following line has optional chaining, added in Next.js v9.1.5,
@@ -23,39 +23,49 @@ const Index: NextPage<{}> = () => {
   let quote = data?.quote;
 
   const revealAnswer = () => {
-    setReveal(true)
-  }
+    setReveal(true);
+  };
 
   const fetchNewQuote = () => {
-    setReveal(false)
-    mutate(`/api/randomQuote`)
-  }
+    setReveal(false);
+    mutate(`/api/randomQuote`);
+  };
 
-  if (!data) quote = 'Loading...';
-  if (error) quote = 'Failed to fetch the quote.';
-
+  if (!data) quote = "Loading...";
+  if (error) quote = "Failed to fetch the quote.";
 
   return (
     <main className="center">
       <Header />
       <div className="quoteContainer">
         <div className="quote">{quote}</div>
-        {reveal && movie ? <span className="movie">{`${movie} (${year})`}</span> : '...'}
+        {reveal && movie ? (
+          <span className="movie">{`${movie} (${year})`}</span>
+        ) : (
+          "..."
+        )}
       </div>
       <div className="footer">
-        <div className={reveal ? "textButton disbled" : "textButton" } onClick={revealAnswer}>Which movie is this taken from?</div>
-        <div className="textButton" onClick={fetchNewQuote}>New random quote</div>
+        <div
+          className={reveal ? "textButton disbled" : "textButton"}
+          onClick={revealAnswer}
+        >
+          Which movie is this taken from?
+        </div>
+        <div className="textButton" onClick={fetchNewQuote}>
+          New random quote
+        </div>
       </div>
-      
 
       <style jsx global>{`
-        html, body {
-          height: 100vh; 
+        html,
+        body {
+          height: 100vh;
           margin: 0;
           font-family: Poppins;
         }
-        #__next { 
-          height: 100vh; 
+        #__next {
+          height: 100vh;
           background-color: ${colors.navy};
           display: flex;
           align-items: center;
@@ -71,7 +81,7 @@ const Index: NextPage<{}> = () => {
           height: 100vh;
           text-align: center;
           background-color: ${colors.navy};
-          color: ${colors.white}
+          color: ${colors.white};
         }
         .quote {
           font-size: 32px;
@@ -106,6 +116,6 @@ const Index: NextPage<{}> = () => {
       `}</style>
     </main>
   );
-}
+};
 
 export default Index;
