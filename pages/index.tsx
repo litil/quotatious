@@ -1,14 +1,15 @@
 import { useRouter } from 'next/router';
 import useSWR, { mutate } from 'swr';
-import { colors } from '../colors.js';
+import { colors } from '../colors';
 import { useState } from "react";
-import Header from '../components/Header'
+import Header from '../components/Header';
+import { NextPage } from 'next';
 
-function fetcher(url) {
+function fetcher(url: string) {
   return fetch(url).then(r => r.json());
 }
 
-export default function Index() {
+const Index: NextPage<{}> = () => {
   const [ reveal, setReveal ] = useState(false);
   const { query } = useRouter();
   const { data, error } = useSWR(
@@ -106,3 +107,5 @@ export default function Index() {
     </main>
   );
 }
+
+export default Index;
