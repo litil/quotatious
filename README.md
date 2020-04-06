@@ -6,6 +6,8 @@ A minimalist app testing your cinema culture. Based on Next.js.
 
 - [ ] add more quotes to the database
 
+
+
 ## :construction: Stack
 
 This project is powered by NextJS and nothing else. The database is for now a simple JSON file as there are, for now, only about 100 quotes. If I decide to add thousands more quotes or add the possibility to add a quote from a UI interface, I'll think about adding a real database.
