@@ -23,5 +23,505 @@
     "quote": "Elementary, my dear Watson.",
     "movie": "The Adventures of Sherlock Holmes",
     "year": 1939
+  },
+  {
+    "quote": "I don't have friends. I got family.",
+    "movie": "Furious 7",
+    "year": 2015
+  },
+  {
+    "quote": "Ogres are like onions.",
+    "movie": "Shrek",
+    "year": 2001
+  },
+  {
+    "quote": "You're my boy, Blue!",
+    "movie": "Old School",
+    "year": 2003
+  },
+  {
+    "quote": "Dude, where's my car?",
+    "movie": "Dude, Where's My Car?",
+    "year": 2000
+  },
+  {
+    "quote": "You have bewitched me, body and soul.",
+    "movie": "Pride and Prejudice",
+    "year": 2005
+  },
+  {
+    "quote": "So be prepared, be enthusiastic,&nbsp;and leave your bullshit attitude and baggage at the door because we don't need it!",
+    "movie": "Wet Hot American Summer",
+    "year": 2001
+  },
+  {
+    "quote": "I just wanted to take another look at you.",
+    "movie": "A Star Is Born",
+    "year": 2018
+  },
+  {
+    "quote": "You gotta hear this one song. It'll change your life, I swear.",
+    "movie": "Garden State",
+    "year": 2004
+  },
+  {
+    "quote": "Ye best start believin' in ghost stories, Miss Turner. Yer&nbsp;in one.&nbsp; &nbsp;",
+    "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003
+  },
+  {
+    "quote": "You've got red on you.",
+    "movie": "Shaun of the Dead",
+    "year": 2004
+  },
+  {
+    "quote": "Honest to blog?",
+    "movie": "Juno",
+    "year": 2007
+  },
+  {
+    "quote": "I am Groot.",
+    "movie": "Guardians of the Galaxy",
+    "year": 2014
+  },
+  {
+    "quote": "Put some Windex on it.",
+    "movie": "My Big Fat Greek Wedding",
+    "year": 2002
+  },
+  {
+    "quote": "It is the titular role!",
+    "movie": "Lady Bird",
+    "year": 2017
+  },
+  {
+    "quote": "I want to play a game.",
+    "movie": "Saw",
+    "year": 2004
+  },
+  {
+    "quote": "They called me Mr. Glass.",
+    "movie": "Unbreakable",
+    "year": 2000
+  },
+  {
+    "quote": "I have nipples, Greg. Could&nbsp;you milk me?",
+    "movie": "Meet the Parents",
+    "year": 2000
+  },
+  {
+    "quote": "This is Sparta!",
+    "movie": "300",
+    "year": 2006
+  },
+  {
+    "quote": "In one of our designs even these mosquito bites will look like juicy, juicy mangoes!",
+    "movie": "Bend It Like Beckham",
+    "year": 2002
+  },
+  {
+    "quote": "I wanna rob.",
+    "movie": "The Bling Ring",
+    "year": 2013
+  },
+  {
+    "quote": "You're putting the pussy on a pedestal.",
+    "movie": "The 40-Year-Old Virgin",
+    "year": 2005
+  },
+  {
+    "quote": "Cello, you've got a bass.",
+    "movie": "School of Rock",
+    "year": 2003
+  },
+  {
+    "quote": "I am gonna kill Bill.",
+    "movie": "Kill Bill: Vol. 2",
+    "year": 2004
+  },
+  {
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "movie": "Obsessed",
+    "year": 2009
+  },
+  {
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "movie": "Best in Show",
+    "year": 2000
+  },
+  {
+    "quote": "I have such doubts!",
+    "movie": "Doubt",
+    "year": 2008
+  },
+  {
+    "quote": "Hell is a teenage girl.",
+    "movie": "Jennifer's Body",
+    "year": 2009
+  },
+  {
+    "quote": "You gonna eat your tots?",
+    "movie": "Napoleon Dynamite",
+    "year": 2004
+  },
+  {
+    "quote": "I have had it with these motherfuckin' snakes on this motherfuckin' plane!",
+    "movie": "Snakes on a Plane",
+    "year": 2006
+  },
+  {
+    "quote": "To me, you are perfect.",
+    "movie": "Love Actually",
+    "year": 2003
+  },
+  {
+    "quote": "For a guy with a four digit IQ, I must have missed something.",
+    "movie": "Limitless",
+    "year": 2011
+  },
+  {
+    "quote": "My tastes are very singular.",
+    "movie": "Fifty Shades of Grey",
+    "year": 2015
+  },
+  {
+    "quote": "I have to return some videotapes.",
+    "movie": "American Psycho",
+    "year": 2000
+  },
+  {
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "movie": "X-Men",
+    "year": 2000
+  },
+  {
+    "quote": "In moonlight, black boys look blue.",
+    "movie": "Moonlight",
+    "year": 2016
+  },
+  {
+    "quote": "These are not spirit fingers. These&nbsp;are spirit fingers. And these are gold.",
+    "movie": "Bring It On",
+    "year": 2000
+  },
+  {
+    "quote": "The law says that you cannot touch.&nbsp;But I think I see a lot of lawbreakers up in this house tonight.",
+    "movie": "Magic Mike",
+    "year": 2012
+  },
+  {
+    "quote": "You're a wizard, 'arry.",
+    "movie": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001
+  },
+  {
+    "quote": "I'm the guy who does his job. You must be the other guy.",
+    "movie": "The Departed",
+    "year": 2006
+  },
+  {
+    "quote": "Look at my shit.",
+    "movie": "Spring Breakers",
+    "year": 2012
+  },
+  {
+    "quote": "Prepare to be fucked by the long dick of the law!",
+    "movie": "Superbad",
+    "year": 2007
+  },
+  {
+    "quote": "Just keep swimming.",
+    "movie": "Finding Nemo",
+    "year": 2003
+  },
+  {
+    "quote": "You had my curiosity. But now you have my attention.",
+    "movie": "Django Unchained",
+    "year": 2012
+  },
+  {
+    "quote": "You're the man now, dog!",
+    "movie": "Finding Forrester",
+    "year": 2000
+  },
+  {
+    "quote": "Girl, you can't get no infection in your booty hole! It's a booty hole!",
+    "movie": "Girls Trip",
+    "year": 2017
+  },
+  {
+    "quote": "I volunteer as tribute.",
+    "movie": "Hunger Games",
+    "year": 2012
+  },
+  {
+    "quote": "Even artichokes have hearts.",
+    "movie": "'",
+    "year": Amélie
+  },
+  {
+    "quote": "Would that it were so simple.",
+    "movie": "Hail, Caesar!",
+    "year": 2016
+  },
+  {
+    "quote": "With great power comes great responsibility.",
+    "movie": "Spider-Man",
+    "year": 2002
+  },
+  {
+    "quote": "Ass to ass.",
+    "movie": "Requiem for a Dream",
+    "year": 2000
+  },
+  {
+    "quote": "You will ride eternal, shiny and chrome.",
+    "movie": "Mad Max: Fury Road",
+    "year": 2015
+  },
+  {
+    "quote": "I don't like sand. It's all coarse, and rough, and irritating. And it gets everywhere.",
+    "movie": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002
+  },
+  {
+    "quote": "I am the motherfucker that found this place, sir.",
+    "movie": "Zero Dark Thirty",
+    "year": 2012
+  },
+  {
+    "quote": "Kiss me, my girl, before I am sick.",
+    "movie": "Phantom Thread",
+    "year": 2017
+  },
+  {
+    "quote": "The wrong kid died.",
+    "movie": "Walk Hard: The Dewey Cox Story",
+    "year": 2007
+  },
+  {
+    "quote": "Not the bees!",
+    "movie": "The Wicker Man",
+    "year": 2006
+  },
+  {
+    "quote": "I'm glad he's single because I'm going to climb that like a tree.",
+    "movie": "Bridesmaids",
+    "year": 2011
+  },
+  {
+    "quote": "Are you watching closely?",
+    "movie": "The Prestige",
+    "year": 2006
+  },
+  {
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "movie": "Talladega Nights: The Ballad of Ricky Bobby",
+    "year": 2006
+  },
+  {
+    "quote": "Man, fuck Jesse Jackson!",
+    "movie": "Barbershop",
+    "year": 2002
+  },
+  {
+    "quote": "Would it be all right if I showed the children the whoring bed?",
+    "movie": "Nymphomaniac Part I",
+    "year": 2014
+  },
+  {
+    "quote": "I was perfect.",
+    "movie": "Black Swan",
+    "year": 2010
+  },
+  {
+    "quote": "That's a bingo.",
+    "movie": "Inglourious Basterds",
+    "year": 2009
+  },
+  {
+    "quote": "Why are you wearing that stupid man suit?",
+    "movie": "Donnie Darko",
+    "year": 2001
+  },
+  {
+    "quote": "I know that babies taste the best.",
+    "movie": "Snowpiercer",
+    "year": 2013
+  },
+  {
+    "quote": "Honey? Where's my super suit?",
+    "movie": "The Incredibles",
+    "year": 2004
+  },
+  {
+    "quote": "What is this? A center for ants?",
+    "movie": "Zoolander",
+    "year": 2001
+  },
+  {
+    "quote": "Meet me in Montauk.",
+    "movie": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004
+  },
+  {
+    "quote": "It's the fucking Catalina Wine Mixer.",
+    "movie": "Step Brothers",
+    "year": 2008
+  },
+  {
+    "quote": "Rock stars have kidnapped my son!",
+    "movie": "Almost Famous",
+    "year": 2000
+  },
+  {
+    "quote": "Not quite my tempo.",
+    "movie": "Whiplash",
+    "year": 2014
+  },
+  {
+    "quote": "Wilsoooooooon!",
+    "movie": "Cast Away",
+    "year": 2000
+  },
+  {
+    "quote": "Now you're in the sunken place.",
+    "movie": "Get Out",
+    "year": 2017
+  },
+  {
+    "quote": "Why so serious?",
+    "movie": "The Dark Knight",
+    "year": 2008
+  },
+  {
+    "quote": "Difficult difficult lemon difficult.",
+    "movie": "In the Loop",
+    "year": 2009
+  },
+  {
+    "quote": "I won't say it for Little Baby Ears over there, but it rhymes with 'smushmortion.'",
+    "movie": "Knocked Up",
+    "year": 2007
+  },
+  {
+    "quote": "Is this your king?",
+    "movie": "Black Panther",
+    "year": 2018
+  },
+  {
+    "quote": "If you're a bird, I'm a bird.",
+    "movie": "The Notebook",
+    "year": 2004
+  },
+  {
+    "quote": "I am Shiva, the god of death.",
+    "movie": "Michael Clayton",
+    "year": 2007
+  },
+  {
+    "quote": "I'm gonna steal the Declaration of Independence.",
+    "movie": "National Treasure",
+    "year": 2004
+  },
+  {
+    "quote": "You shall not pass!",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  {
+    "quote": "If anyone orders merlot, I'm leaving. I am not drinking any fucking merlot!",
+    "movie": "Sideways",
+    "year": 2004
+  },
+  {
+    "quote": "But what I do have are a very particular set of skills, skills I have acquired over a very long career, skills that make me a nightmare for people like you.",
+    "movie": "Taken",
+    "year": 2008
+  },
+  {
+    "quote": "Look at me. Look at me. I am the captain now.",
+    "movie": "Captain Phillips",
+    "year": 2013
+  },
+  {
+    "quote": "Baby, you are gonna miss that plane.",
+    "movie": "Before Sunset",
+    "year": 2004
+  },
+  {
+    "quote": "My wife!",
+    "movie": "Borat",
+    "year": 2006
+  },
+  {
+    "quote": "Are you not entertained?",
+    "movie": "Gladiator",
+    "year": 2000
+  },
+  {
+    "quote": "You sit on a throne of lies.",
+    "movie": "Elf",
+    "year": 2003
+  },
+  {
+    "quote": "Wouldst thou like to live deliciously?",
+    "movie": "The VVitch",
+    "year": 2016
+  },
+  {
+    "quote": "Exercise gives you endorphins. Endorphins make you happy. Happy people just don't shoot their husbands, they just don't.",
+    "movie": "Legally Blonde",
+    "year": 2001
+  },
+  {
+    "quote": "You're tearing me apart, Lisa!",
+    "movie": "The Room",
+    "year": 2003
+  },
+  {
+    "quote": "I'm a fiend for mojitos.",
+    "movie": "Miami Vice",
+    "year": 2006
+  },
+  {
+    "quote": "Boy, that escalated quickly.",
+    "movie": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004
+  },
+  {
+    "quote": "King Kong ain't got shit on me!",
+    "movie": "Training Day",
+    "year": 2001
+  },
+  {
+    "quote": "I live my life a quarter mile at a time.",
+    "movie": "The Fast and the Furious",
+    "year": 2001
+  },
+  {
+    "quote": "A million dollars isn't cool. You know what's cool?",
+    "movie": "The Social Network",
+    "year": 2010
+  },
+  {
+    "quote": "She doesn't even go here!",
+    "movie": "Mean Girls",
+    "year": 2004
+  },
+  {
+    "quote": "I wish I knew how to quit you.",
+    "movie": "Brokeback Mountain",
+    "year": 2005
+  },
+  {
+    "quote": "Florals? For spring? Groundbreaking.",
+    "movie": "The Devil Wears Prada",
+    "year": 2006
+  },
+  {
+    "quote": "I drink your milkshake.",
+    "movie": "There Will Be Blood",
+    "year": 2007
   }
 ]
