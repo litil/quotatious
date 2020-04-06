@@ -5,7 +5,9 @@ A minimalist app testing your cinema culture. Based on Next.js.
 ## :white_check_mark: Todo
 
 - [ ] add more quotes to the database
-{nbsp} +
+{empty} +
+{empty} +
+{empty} +
 
 ## :construction: Stack
 
