@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "htmlparser2": "^4.1.0",
     "node-html-parser": "^1.2.14",
     "request": "^2.88.2",
